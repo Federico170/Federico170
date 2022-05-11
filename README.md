@@ -2,7 +2,7 @@
 - 👀 I’m interested develop apps and create new projects
 - 🌱 I’m currently learning Dart
 - 💞️ I’m looking to collaborate on coding mobile app
-- 📫 How to reach me 
+
 
 <!---
 Federico170/Federico170 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

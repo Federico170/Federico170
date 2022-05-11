@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Federico
-- 👀 I’m interested in  sviluppare app e creare nuovi  progetti 
+- 👀 I’m interested develop apps and create new projects
 - 🌱 I’m currently learning Dart
 - 💞️ I’m looking to collaborate on coding mobile app
 - 📫 How to reach me 
